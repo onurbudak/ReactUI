@@ -115,7 +115,6 @@ export default class Customer extends React.Component {
             >
               Kaydet
             </Button>
-            
           </Grid>
         </Grid>
       </div>
